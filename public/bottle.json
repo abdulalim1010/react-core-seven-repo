@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "brand": "Aquafina",
+    "capacity": "1L",
+    "material": "Plastic",
+    "price": 1.5,
+    "isReusable": false,
+    "hot": false,
+    "cold": true,
+    "image": "https://tse1.mm.bing.net/th?id=OIP.X-5Q5xLh0tqXckPYpUAvGAHaHa&pid=Api"
+  },
+  {
+    "id": 2,
+    "brand": "Nalgene",
+    "capacity": "750ml",
+    "material": "Tritan",
+    "price": 12.99,
+    "isReusable": true,
+    "hot": false,
+    "cold": true,
+    "image": "https://tse1.mm.bing.net/th?id=OIP.nJNmIKLOZZsRE_xuV1y12gHaHa&pid=Api"
+  },
+  {
+    "id": 3,
+    "brand": "Hydro Flask",
+    "capacity": "1L",
+    "material": "Stainless Steel",
+    "price": 34.95,
+    "isReusable": true,
+    "hot": true,
+    "cold": true,
+    "image": "https://tse3.mm.bing.net/th?id=OIP.PWqlG_nUOYpMOXjCHJKdKQHaHa&pid=Api"
+  },
+  {
+    "id": 4,
+    "brand": "Evian",
+    "capacity": "500ml",
+    "material": "Plastic",
+    "price": 2.0,
+    "isReusable": false,
+    "hot": false,
+    "cold": true,
+    "image": "https://tse2.mm.bing.net/th?id=OIP.1Bv0MNH1N9BbUyzM8nJLEAHaHa&pid=Api"
+  },
+  {
+    "id": 5,
+    "brand": "CamelBak",
+    "capacity": "600ml",
+    "material": "BPA-Free Plastic",
+    "price": 15.0,
+    "isReusable": true,
+    "hot": false,
+    "cold": true,
+    "image": "https://tse1.mm.bing.net/th?id=OIP.zYRM8hAvFOs0W8FrTpZVcAHaHa&pid=Api"
+  }
+]
